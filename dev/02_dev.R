@@ -59,7 +59,7 @@
 # ## CI ----
 # ## Use this part of the script if you need to set up a CI
 # ## service for your application
-# ##
+# #
 # ## (You'll need GitHub there)
 # usethis::use_github()
 #
